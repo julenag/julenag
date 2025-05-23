@@ -16,7 +16,7 @@ En este perfil encontrarás algunos de los proyectos personales que he desarroll
   ➡️ [Ver repositorio](https://github.com/julenag/buscador-renfe)
 
   📥 **Descargador de PDFs de Moodle**  
-  Script que accede al Moodle de un curso, descarga todos los PDFs disponibles y los ordena por carpeta. Ahorra tiempo y evita tener 
+  Script que accede al Moodle de un curso, descarga todos los PDFs disponibles y los ordena por carpetas. Ahorra tiempo y evita tener 
   que ir descargando archivo por archivo manualmente.  
   ➡️ [Ver repositorio](https://github.com/julenag/descarga_pdf_moodle)
 
