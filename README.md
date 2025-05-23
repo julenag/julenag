@@ -13,12 +13,12 @@ En este perfil encontrarás algunos de los proyectos personales que he desarroll
   disponibilidad y envía una notificación al Telegram del usuario.   
   Quería comprar billetes de tren con antelación porque son más baratos, pero como no se sabe cuándo salen a la venta, tenía que 
   comprobarlo en la web de Renfe cada pocos días. Para no tener que hacerlo manualmente, creé este script en Python que lo hace por mí.
-  ➡️ [Ver repositorio](https://github.com/tuusuario/buscador-renfe)
+  ➡️ [Ver repositorio](https://github.com/julenag/buscador-renfe)
 
   📥 **Descargador de PDFs de Moodle**  
   Script que accede al Moodle de un curso, descarga todos los PDFs disponibles y los ordena por carpeta. Ahorra tiempo y evita tener 
   que ir descargando archivo por archivo manualmente.  
-  ➡️ [Ver repositorio](https://github.com/tuusuario/moodle-downloader)
+  ➡️ [Ver repositorio](https://github.com/julenag/moodle-downloader)
 
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/julen-aguilera-garcía/)
