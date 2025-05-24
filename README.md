@@ -13,7 +13,6 @@ En este perfil encontrarás algunos de los proyectos personales que he desarroll
   disponibilidad y envía una notificación al Telegram del usuario cuando el billete esta a la venta.   
   Quería comprar billetes de tren con antelación porque son más baratos, pero como no se sabe cuándo salen a la venta, tenía que 
   comprobarlo en la web de Renfe cada pocos días. Para no tener que hacerlo manualmente, creé este script en Python que lo hace por mí.
-  
   ➡️ [Ver repositorio](https://github.com/julenag/buscador-renfe)
 
   📥 **Descargador de PDFs de Moodle**  
