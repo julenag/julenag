@@ -3,7 +3,7 @@
 Me entretiene programar y me gusta pensar en cómo puedo optimizar aspectos de mi día a día utilizando la programación como herramienta.
 En este perfil encontrarás algunos de los proyectos personales que he desarrollado en mi tiempo libre, sobre todo con Python.
 
-## 🛠 Lenguajes que domino
+## 🛠 Lenguajes
 - 💻 C++ – Lenguaje principal en mi formación universitaria (UPC)
 - 🐍 Python – Aprendido de forma autodidacta, lo uso en proyectos personales
 
