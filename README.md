@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Julen, estudiante de Ingeniería en Tecnologías Aeroespaciales en la UPC
+# 👋 ¡Hola! Soy Julen
 
 Me entretiene programar y me gusta pensar en cómo puedo optimizar aspectos de mi día a día utilizando la programación como herramienta.
 En este perfil encontrarás algunos de los proyectos personales que he desarrollado en mi tiempo libre, sobre todo con Python.
